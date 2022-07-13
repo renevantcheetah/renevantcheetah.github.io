@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /technology/
+title: /technology/
+---
+
+
+{{page.categories | capitalize | join: ', '}}
+
+{% for post in site.categories.Technology%}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}

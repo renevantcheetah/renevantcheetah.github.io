@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /culture/
+title: /culture/
+---
+
+
+{{page.categories | capitalize | join: ', '}}
+
+{% for post in site.categories.Culture%}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}

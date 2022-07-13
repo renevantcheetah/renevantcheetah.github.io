@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /environment/
+title: /environment/
+---
+
+
+{{page.categories | capitalize | join: ', '}}
+
+{% for post in site.categories.Environment%}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}

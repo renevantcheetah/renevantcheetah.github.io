@@ -6,4 +6,6 @@ categories: Culture
 permalink: /:categories/:title
 ---
 
-Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can. That is 
+![consumerism](/assets/posts_images/consumerism.png)
+
+Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can.

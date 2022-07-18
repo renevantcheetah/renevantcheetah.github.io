@@ -5,7 +5,7 @@ title:
 
 &nbsp;
 ![About](/assets/me2.jpg)
-<figcaption align = "center"><b>Middle one is me, rest both of them are a**holes 😊😁</b></figcaption>
+<figcaption align = "center"><b>I am in the Middle.</b></figcaption>
 &nbsp;
 
 “Right, I’d just like to start by laying down a couple of rules. Firstly, if you do have a mobile phone or any gadget… please, leave it switched on; keep yourselves entertained. And secondly, if anyone texts you any good jokes, could you please forward them to me?” Just in case if you want, otherwise you may subscribe to my mailing list. Ok now let's do some talking.

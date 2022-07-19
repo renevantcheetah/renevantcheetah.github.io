@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programming your washing machine"
+title: "Your washing machine"
 comments: true
 categories: Technology
 permalink: /:categories/:title

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indians were greatest of all time
+title: Indians were greatest
 comments: true
 categories: Culture
 permalink: /:categories/:title

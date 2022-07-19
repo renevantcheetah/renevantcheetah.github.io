@@ -3,6 +3,7 @@ layout: default
 ---
 
 
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
@@ -17,11 +18,14 @@ layout: default
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
+    {% include read_time.html %}
+    <br>
   <br>
   {{ content }}
 </div>
 {% include social_media_share.html %}
 <br>
+
 
 <div class="related">
   <h2>Other Posts</h2>
@@ -34,4 +38,3 @@ layout: default
         </h3>
     {% endfor %}
 </div>
-

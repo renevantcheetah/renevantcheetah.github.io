@@ -42,3 +42,4 @@ pages_list:
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+

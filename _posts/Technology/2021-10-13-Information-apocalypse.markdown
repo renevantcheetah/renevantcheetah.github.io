@@ -10,6 +10,10 @@ permalink: /:categories/:title
 
 According to some scholars, living in the 21st century is the best time to be alive. I mean, think about it, we have everything at our disposal. You can talk to a person living on the other side of the world, hear an orchestral musical performance that happened decades ago, watch a sport that being played thousands miles away, learn anything from anyone you want if you don’t like your imbecile college classes.
 
+&nbsp;
+![information](/assets/posts_images/information.jpg)
+&nbsp;
+
 In particular, as of now, as a species; we have more resources to read, reflect, process and interpret than any of our ancestors counterparts from the history. But there is a cache. This environment gives us more materialistic resources and longest lives than those enjoyed by any of our previous generation, but somehow it often makes us feel alienated, confused, overwhelmed, depressed and pressured.
 
 But why is it so? Why can't we get enough of all the resources. Why can't we remember that tip from a wellbeing article describing about the progressing ways to be focused and more productive. Why can't we read an entire article without getting distracted? Why many of us can't recollect the facts from a book we just read recently!? Why we have a colossal desire to look at what others are doing in their life through the social media! Why our YouTube watch later playlist contains enough videos to answer all these whys but we are still searching for that one magic pill to solve all our problems. The answer is the behemoth amount of information available on our fingertips and our brains haven't evolved to be able to process it all.

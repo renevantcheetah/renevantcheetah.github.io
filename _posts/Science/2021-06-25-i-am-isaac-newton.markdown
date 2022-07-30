@@ -83,6 +83,6 @@ Certainly, many of these factors have had an influence on our lives. With no que
 > Before going into the dark matter again, I have a request for you: No matter what we do, where we come from, what is our sex, religion, caste, or ethnicity, we all are one. It’s not only about you or me, it’s about the legacy we leave behind. What example we want to set for our future generations!? Human beings have already wiped out so many species and many of them out there are on the verge of extinction. I know most of the people who are reading this would not give even a second thought about it, but even if one of you understands and starts working in this very direction, it’s an act of accomplishment for me.  Stop using plastics, Stop deforestation, Save marine life, and work towards sustainable development.
 
 And that’s where my class ends. If you liked my thesis, share these laws with your friends and family. I shared them with the Ghost of Newton and he will share them with Albert. Keep the counter rolling, subscribe to my mailing list down below, and I will keep you updated.
-Until then
+That’s all for this time. Until then
 
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/0Puv0Pss33M). आवजो.

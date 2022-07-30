@@ -46,5 +46,6 @@ Until then, keep the counter rolling, subscribe to my mailing list down below, f
 
 > Remember, it’s not only about you or me, it’s about the legacy we leave behind.
 
-&nbsp;
+That’s all for this time. Until then
+
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/dbCR0KSU52g). आवजो.

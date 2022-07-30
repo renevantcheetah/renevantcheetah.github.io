@@ -37,4 +37,6 @@ Learning a programming language is one of the most important skills in this elec
 
 > Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn.” - Stephen Hawking
 
+That’s all for this time. Until then
+
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/_38JDGnr0vA). आवजो.

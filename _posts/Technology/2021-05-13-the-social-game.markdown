@@ -107,4 +107,6 @@ To make this easy for you, don’t become a kind of social monk abruptly. First,
 
 ***If you are one of those vivid readers who make it this far, As a bonus point I recommend a documentary called “The Social Dilemma” which is on Netflix where tech experts and former employees of social media giants like Twitter, Facebook, Google, YouTube, Instagram, etc talk about how these apps use highly advanced digital surveillance and data mining procedures to control our lives, even without we realizing it. I know most people will pass over, but for those who are really conveyed by this gamble, Please invest 90 minutes of your daytime in this. You will never regret it.***
 
+That’s all for this time. Until then
+
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/2Jq23mSDh9U). आवजो.

@@ -32,4 +32,6 @@ If we have more equity in ours’s social networks, the less biased and more inf
 
 ### As a 19-year-old to be an engineer, living in a nation of 1.38 billion people, I want my nation to be at the top of the pole in any divisional role. Period
 
+That’s all for this time. Until then
+
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/G8MO_8Zfu3Q). आवजो.

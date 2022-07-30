@@ -43,4 +43,6 @@ Fourth is avoiding Plastic and decrease your carbon footprint and blah blah blah
 
 ## Before ending this, I want to say that a man with an empty stomach will not care about the carbon emission, carbon footprint, water input, plastic reduction, and every other thing you can think about for decreasing the impacts of climate change because if you have a mouth to feed then all these ideologies don't even exist. Remain tuned for the answers
 
+That’s all for this time. Until then
+
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/uD4izuDMUQA). आवजो.

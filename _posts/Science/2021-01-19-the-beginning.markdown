@@ -62,4 +62,6 @@ While I have left out many of the technical details because the universe is not 
 > In a sense, we exactly don't know about the real creation process, I mean there may be a possibility that our entire universe is placed
 in a tiny glass jar somewhere, placed on a shelf in an alien child's room as a science fair project that got a C -. Who knows :)*
 
+That’s all for this time. Until then
+
 [पर्यावरण बचाओ पृथ्वी बचाओ](https://youtu.be/_38JDGnr0vA). आवजो.

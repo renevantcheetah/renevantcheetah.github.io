@@ -17,4 +17,4 @@ I Love F.R.I.E.N.D.S, Game of Thrones, Cosmos, Designated survivor, and OUR PLAN
 
 That about wraps it up for me. If you made it this far, I appreciate you being here. Peace out.
 
-### आवजो!
+### आवजो

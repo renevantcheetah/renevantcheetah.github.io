@@ -24,6 +24,9 @@ Still not convinced huh >?Let me give you some examples that why we should care 
 
 &nbsp;
 [![Climate](/assets/posts_images/climate.png)](https://youtu.be/G4H1N_yXBiA)
+<figcaption align = "center"><b>Click on the Image</b></figcaption>
+&nbsp;
+
 
 Then what's the solution? "I mean I am just an individual, how I can make an impact?" Big things start small, remember that.  Fighting climate change is somehow very akin to fighting any pandemic. In these tough times, we learned that if we managed to do our part in maintaining Social distancing, cautiously using mask and sanitizer then it can make a lot of difference and in the exact way healing planet starts in your garage, in your kitchen, and at your dining table. You necessarily don't need to be a part of mass gatherings or protests or any such kind of dramas where people are merely taking the advantage of the crowd to become politically auspicious. So there are basic simple steps that can become the first-hand tool for working towards mitigating the impacts of climate change.
 

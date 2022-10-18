@@ -5,7 +5,7 @@ comments: true
 categories: Science
 permalink: /:categories/:title
 ---
-Do you remember those three laws of motion from your secondary school science textbook, Anything? Distance, Displacement, Speed?! Not necessarily the equations, but anything? No right!
+Do you remember those three laws of motion from your secondary school science textbook, anything? Distance, Displacement, Speed?! Not necessarily the equations, but anything? No right!
 
 Conventionally, most of us see the three fundamental laws of motion proposed by Sir Isaac Newton in 1687 in his groundbreaking book "The Principia: Mathematical Principles of Natural Philosophy" as some kind of mysterious paradox, but it’s actually more than that. What if I told you we could use those three laws that made you scratch your head during your physics class as an interesting analogy for increasing your productivity, simplifying your work, and improving your life?
 

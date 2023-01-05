@@ -11,10 +11,12 @@ title: पधारो सा
 
 ## Hi, I am Vipul Maheshwari. The one in the middle
 
-I grew up in the small town of Deogarh which is located nearby Udaipur in Rajasthan. I try to make things simpler and clearer because I am not so much into the rotting techniques. I am currently in my Sophomore year of Engineering with a major in Computer Science. I love playing Badminton and I also did win some trophies in my middle school for various orating competitions.
+I grew up in a small town of Deogarh which is located nearby Udaipur in Rajasthan. I try to make things simpler and clearer because I am not so much into the rotting techniques. I am currently in my Final Year of Engineering with a major in Computer Science. I love playing Badminton and I also did win some trophies in my middle school for various orating competitions.
 
 I Love F.R.I.E.N.D.S, Game of Thrones, Cosmos, Designated survivor, and OUR PLANET, and If you don't know what all these are then don't worry because I love जेठालाल too.
 
 That about wraps it up for me. If you made it this far, I appreciate you being here. Peace out.
+
+Don't you dare click on [PinakaX](https://vipul-maheshwari.github.io/)
 
 ### आवजो

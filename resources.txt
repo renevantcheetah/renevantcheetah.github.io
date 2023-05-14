@@ -3,6 +3,7 @@ Check Google analytics -> https://holini.com/google-analytics-isnt-working/
 Transfer DNS from namecheap to Cloudfare -> http://davidensinger.com/2014/04/transferring-the-dns-from-namecheap-to-cloudflare-for-github-pages/
 Add any icon for the website -> https://www.addtoany.com/
 Add ERT for posts -> https://excessivelyadequate.com/posts/ert.html
+Views Counter for posts -> https://dev-yakuza.posstree.com/en/share/hit-counts/
 
 
 -> Email subscribe text : Welcome to Wait But Why's email list!

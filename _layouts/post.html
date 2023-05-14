@@ -2,12 +2,13 @@
 layout: default
 ---
 
-
-
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  <div class="post-categories">
+  <div class="post-meta">
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+    <!-- <img style="width: 80px; height: 20px; margin-left: 0px;" src="http://hits.dwyl.com/renevantcheetah.github.io{{ page.url }}.svg" alt="hit count image"/>  <div class="post-categories"></div> -->
+    <img alt="Custom badge" src="https://img.shields.io/endpoint?color=ff0000&label=views&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Frenevantcheetah%2Frenevantcheetahgithubio.json" style="width: 76px; height: 21px; margin-left: 0px;"/>  <div class="post-categories"></div>
+
     {% if post %}
       {% assign categories = post.categories %}
     {% else %}

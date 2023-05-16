@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Romanticism and Consumerism
+title: Magic Words
 comments: true
 categories: Culture
 permalink: /:categories/:title

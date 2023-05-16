@@ -32,7 +32,7 @@ And just for the record, ladies and gentlemen, I am about to make a bold move in
 
 > गुरु कहे जो कर, गुरु करे वो नहीं.
 
-So, excuse me for a moment while I chase my dream cars. Please don’t poke this article with a stick and throw it in my face in the future, saying that I’m contradicting myself by promoting both Romanticism and Consumerism. Well, Maybe I am contradicting but who’s saying that a love of sleek cars with a powerful engine and luxurious design isn’t a form of culture on its own.           3.9liter, V8 twin turbocharged, whopping 612 horsepower and 561 lb-ft of raw torque. Fuck consumerism.
+So, excuse me for a moment while I chase my dream cars. Please don’t poke this article with a stick and throw it in my face in the future, saying that I’m contradicting myself by promoting both Romanticism and Consumerism. Well, Maybe I am contradicting but who’s saying that a love of sleek cars with a powerful engine and luxurious design isn’t a form of culture on its own. 3.9liter, V8 twin turbocharged, whopping 612 horsepower and 561 lb-ft of raw torque. Fuck consumerism.
 
 और हा, पोर्नहब सब्सक्रिप्शन इंडिया में काम नहीं करता, और वेगस अभि औकात से बाहर है, तो पढ़ ले और पैसा कमाओ.
 

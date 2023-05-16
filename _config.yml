@@ -31,7 +31,7 @@ pages_list:
 
   Feed: '/feed/'
   Dump: '/categories/'
-  Me: '/me/'
+  # Me: '/me/'
   
 
   # Feed: '/atom.xml'

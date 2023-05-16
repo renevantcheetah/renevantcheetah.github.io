@@ -1,6 +1,7 @@
 ---
 layout: page
 title:
+permalink: /me/
 ---
 
 &nbsp;

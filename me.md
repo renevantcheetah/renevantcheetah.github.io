@@ -5,7 +5,7 @@ permalink: /me/
 ---
 
 &nbsp;
-![About](/assets/me3.png)
+![About](/assets/me.**JPG**)
 <figcaption align = "center"><b></b></figcaption>
 
 राम सा प्यार, कृष्ण सा दुलार, गौरी की मुस्कान और चांदनी की चमक, सब है.
